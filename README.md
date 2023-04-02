@@ -1,3 +1,3 @@
-# .github-private
-repository for public readme shown on SYZYGY Techsolutions github start page for ALL users 
-You can find the public readme [here](/profile/README.md)
+# Hi there 👋
+Welcome to SYZYGY Techsolutions. This is the place for all our internal repositories and projects.
+:-)
