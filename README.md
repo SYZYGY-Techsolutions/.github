@@ -1,2 +1,1 @@
-# .github
-SYZYGY Techsolutions
+# Hi @ SYZYGY Techsolutions
